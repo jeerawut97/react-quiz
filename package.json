@@ -2,6 +2,7 @@
   "name": "effects-adv-prj",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jeerawut97.github.io/react-quiz/",
   "type": "module",
   "scripts": {
     "dev": "vite",
